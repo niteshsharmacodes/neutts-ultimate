@@ -28,7 +28,7 @@ Built on cutting-edge NeuPhonic NeuTTS-Air model for state-of-the-art speech qua
 
 For a complete walkthrough and examples, check out the official tutorial:
 
-[![NeuTTS-Air Complete Tutorial](assets/neutts_thumbnail.png)](https://youtu.be/VNb31bw1Itc))
+[![NeuTTS-Air Complete Tutorial](assets/neutts_thumbnail.png)](https://youtu.be/VNb31bw1Itc)
 
 This tutorial covers:
 - Installation and setup
@@ -132,6 +132,8 @@ long_text = "Your very long text here..."
 audio = tts.generate(long_text, smart_chunking=True)
 ```
 
+Do subscribe to my youtube channel for more such releases! - https://www.youtube.com/@TheOracleGuy_AI
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit issues and pull requests.
@@ -146,4 +148,4 @@ For issues, questions, or feature requests, please visit the repository or check
 
 ---
 
-**Built with ❤️ for advanced speech synthesis**
+**Built with ❤️ by The Oracle Guy for advanced speech synthesis**
